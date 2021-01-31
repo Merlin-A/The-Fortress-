@@ -2,6 +2,7 @@ from sys import exit
  
 import re
 import string
+import time
 name = re.compile(r'[a-zA-Z]+')
 Aname = re.compile(r'[A-Z]+')
 
@@ -311,6 +312,7 @@ def Freedom():
      
         while True:
             print "  IT SAYS WAKE UP  "
+            time.sleep(2)
 
      else:
         print "\n"
