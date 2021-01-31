@@ -6,5 +6,8 @@ STEPS TO PLAY:-
 
 1. Download the .py file visbile and then move it to a directory\folder of your choice.
 2. Open Your Terminal\CMD\Powershell on your Machine and browse into the directory.
-3. Once in the directory just type the name of the file i.e. main.py
+3. Once in the directory just type the name of the file i.e. python main.py
 4. Enjoy the Game.!!
+
+Requirements:
+Python 2.7 Must be installed in your device.
